@@ -4,7 +4,8 @@ Seleção de bolsas Capgemini
 Implementação das questões propostas no Desafio de Programação Capgemini
 
 # Tecnologias ultilizadas
-Java SE
+Java SE 
+
 Eclipse IDE
 
 Observação: Os testes unitários foram desenvolvidos de forma manual apenas para critério de testes
